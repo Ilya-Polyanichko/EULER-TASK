@@ -1,0 +1,15 @@
+C:\Users\IlyaM\Documents\GitHub\EULER-TASK\Collection\Task II\bin\Debug\net6.0\Task II.exe
+C:\Users\IlyaM\Documents\GitHub\EULER-TASK\Collection\Task II\bin\Debug\net6.0\Task II.deps.json
+C:\Users\IlyaM\Documents\GitHub\EULER-TASK\Collection\Task II\bin\Debug\net6.0\Task II.runtimeconfig.json
+C:\Users\IlyaM\Documents\GitHub\EULER-TASK\Collection\Task II\bin\Debug\net6.0\Task II.dll
+C:\Users\IlyaM\Documents\GitHub\EULER-TASK\Collection\Task II\bin\Debug\net6.0\Task II.pdb
+C:\Users\IlyaM\Documents\GitHub\EULER-TASK\Collection\Task II\obj\Debug\net6.0\Task II.csproj.AssemblyReference.cache
+C:\Users\IlyaM\Documents\GitHub\EULER-TASK\Collection\Task II\obj\Debug\net6.0\Task II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IlyaM\Documents\GitHub\EULER-TASK\Collection\Task II\obj\Debug\net6.0\Task II.AssemblyInfoInputs.cache
+C:\Users\IlyaM\Documents\GitHub\EULER-TASK\Collection\Task II\obj\Debug\net6.0\Task II.AssemblyInfo.cs
+C:\Users\IlyaM\Documents\GitHub\EULER-TASK\Collection\Task II\obj\Debug\net6.0\Task II.csproj.CoreCompileInputs.cache
+C:\Users\IlyaM\Documents\GitHub\EULER-TASK\Collection\Task II\obj\Debug\net6.0\Task II.dll
+C:\Users\IlyaM\Documents\GitHub\EULER-TASK\Collection\Task II\obj\Debug\net6.0\refint\Task II.dll
+C:\Users\IlyaM\Documents\GitHub\EULER-TASK\Collection\Task II\obj\Debug\net6.0\Task II.pdb
+C:\Users\IlyaM\Documents\GitHub\EULER-TASK\Collection\Task II\obj\Debug\net6.0\Task II.genruntimeconfig.cache
+C:\Users\IlyaM\Documents\GitHub\EULER-TASK\Collection\Task II\obj\Debug\net6.0\ref\Task II.dll
